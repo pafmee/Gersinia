@@ -26,7 +26,7 @@ A modern GUI application for network protocol testing and packet crafting, simil
 
 1. Clone or download the project:
 ```bash
-git clone <repository-url>
+git clone https://github.com/mscbuild/Gersinia
 cd network_attack_tool
 ```
 
