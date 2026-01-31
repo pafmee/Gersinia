@@ -1,0 +1,38 @@
+from scapy.all import ARP, Ether, srp
+import sys
+
+def scan(ip_range):
+    print(f"[*] Сканирование сети {ip_range}...")
+    
+    # 1. Создаем ARP-запрос
+    arp_request = ARP(pdst=ip_range)
+    
+    # 2. Создаем Ethernet-фрейм для широковещательной рассылки (Broadcast)
+    broadcast = Ether(dst="ff:ff:ff:ff:ff:ff")
+    
+    # 3. Объединяем их в один пакет
+    packet = broadcast / arp_request
+    
+    # 4. Отправляем пакет и получаем ответы (srp - send/receive packets at layer 2)
+    # timeout=2 означает, что мы ждем ответа 2 секунды
+    answered_list = srp(packet, timeout=2, verbose=False)[0]
+
+    clients_list = []
+    for element in answered_list:
+        client_dict = {"ip": element[1].psrc, "mac": element[1].hwsrc}
+        clients_list.append(client_dict)
+    
+    return clients_list
+
+def display_result(results):
+    print("-----------------------------------------")
+    print("IP Адрес\t\tMAC Адрес")
+    print("-----------------------------------------")
+    for client in results:
+        print(f"{client['ip']}\t\t{client['mac']}")
+
+# ЗАПУСК (укажите свой диапазон IP)
+# /24 означает сканирование всех адресов от .1 до .254
+target_ip = "192.000.0.0/24" # Replace with your network range
+devices = scan(target_ip)
+display_result(devices)
