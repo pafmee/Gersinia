@@ -1,4 +1,4 @@
-# Network Attack Tool
+# Gersinia - Network Attack Tool
 
 <img width="1366" height="718" alt="457" src="https://github.com/user-attachments/assets/f7bc9d6b-f5fe-41b4-a913-aa7a6a7ca0cd" />
 
