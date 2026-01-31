@@ -1,0 +1,18 @@
+from scapy.all import conf, get_if_list, show_interfaces
+
+print("--- СЕТЕВАЯ ДИАГНОСТИКА ---")
+
+# 1. Проверяем, какой драйвер захвата пакетов используется
+print(f"Драйвер захвата (pcap): {conf.use_pcap}")
+
+# 2. Выводим таблицу интерфейсов (в Scapy есть отличная встроенная функция для этого)
+try:
+    print("\nДоступные интерфейсы:")
+    show_interfaces()
+except Exception as e:
+    print(f"Ошибка при выводе интерфейсов: {e}")
+
+# 3. Проверка прав (еще раз на всякий случай)
+import ctypes
+is_admin = ctypes.windll.shell32.IsUserAnAdmin() != 0
+print(f"\nПрава администратора: {'ДА' if is_admin else 'НЕТ'}")
