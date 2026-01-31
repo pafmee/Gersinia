@@ -1,4 +1,4 @@
-# Gersinia - Network Attack Tool
+# Gersinia - testing network protocols and generating packets
 
 <img width="1366" height="722" alt="456" src="https://github.com/user-attachments/assets/f45c1d2e-e8c3-4fa1-8f11-495dca34e0a2" />
 <img width="1366" height="718" alt="457" src="https://github.com/user-attachments/assets/f7bc9d6b-f5fe-41b4-a913-aa7a6a7ca0cd" />
