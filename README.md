@@ -200,6 +200,10 @@ Contributions are welcome for:
 - Bug fixes
 - Documentation updates
 
+  ## CAVEATS
+
+Some attacks are denial-of-service and will cause network instability. Only use on networks you own or have explicit authorization to test. Requires root privileges. Many attacks only work on local network segments. Modern switches may have protections against some attacks.
+
 > [!WARNING]  
 > Please ensure all contributions maintain ethical use guidelines.
  
