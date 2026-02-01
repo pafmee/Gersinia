@@ -1,6 +1,5 @@
 # Gersinia - testing network protocols and generating packets
 
-_ _ _ _
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/Gersinia) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
