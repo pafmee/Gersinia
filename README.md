@@ -188,4 +188,6 @@ Contributions are welcome for:
 - Bug fixes
 - Documentation updates
 
-Please ensure all contributions maintain ethical use guidelines.
+> [!WARNING]  
+> Please ensure all contributions maintain ethical use guidelines.
+ 
