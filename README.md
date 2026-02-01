@@ -187,6 +187,16 @@ The tool supports common network protocols:
 - LLMNR/NetBIOS
 - DNS (basic support)
 
+## Why it's used
+
+**Gersinia helps network administrators and security professionals:**
+
+- Test network resilience to Layer 2 attacks.
+ 
+- Demonstrate vulnerabilities that are often overlooked during security assessments (usually focused on Layer 3/L4).
+ 
+- Test security settings: Port Security, DHCP Snooping, Dynamic ARP Inspection.
+
 ## License
 
 This project is for educational and research purposes. Users are responsible for compliance with applicable laws and regulations.
