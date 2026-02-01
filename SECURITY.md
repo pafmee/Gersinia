@@ -13,7 +13,7 @@ We prioritize the security of our users by providing regular patches and updates
 
 ## How to Stay Protected
 
-**1.Upgrade Promptly:** We strongly recommend running the latest version (v3.x) to ensure you have the newest features and security protections.
+**1.Upgrade Promptly:** We strongly recommend running the latest version  to ensure you have the newest features and security protections.
 
 **2.Monitor Advisories:** Subscribe to our security mailing list or check our GitHub security advisories page.
 
