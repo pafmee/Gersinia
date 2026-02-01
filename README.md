@@ -1,5 +1,16 @@
 # Gersinia - testing network protocols and generating packets
 
+![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/**portfolio-webdeveloper**) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+ ![](https://img.shields.io/github/languages/code-size/mscbuild/Gersinia)
+![](https://img.shields.io/badge/code%20style-знерщт-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+
+## Screenshots
+
 <img width="1366" height="722" alt="456" src="https://github.com/user-attachments/assets/f45c1d2e-e8c3-4fa1-8f11-495dca34e0a2" />
 <img width="1366" height="718" alt="457" src="https://github.com/user-attachments/assets/f7bc9d6b-f5fe-41b4-a913-aa7a6a7ca0cd" />
  
