@@ -189,7 +189,7 @@ The tool supports common network protocols:
 
 ## Why it's used
 
-**Gersinia helps network administrators and security professionals:**
+**The Gersinia tool helps network administrators and security professionals:**
 
 - Test network resilience to Layer 2 attacks.
  
@@ -209,10 +209,6 @@ Contributions are welcome for:
 - UI improvements
 - Bug fixes
 - Documentation updates
-
-## CAVEATS
-
-Some attacks are denial-of-service and will cause network instability. Only use on networks you own or have explicit authorization to test. Requires root privileges. Many attacks only work on local network segments. Modern switches may have protections against some attacks.
 
 > [!WARNING]  
 > Please ensure all contributions maintain ethical use guidelines.
