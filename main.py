@@ -7,6 +7,7 @@ Similar to Yersinia but with modern GUI and correct attack implementations
 import customtkinter as ctk
 import threading
 import logging
+import random
 from scapy.all import *
 from scapy.layers.l2 import ARP, Ether, Dot1Q
 from scapy.layers.inet import IP, UDP, TCP
