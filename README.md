@@ -1,5 +1,7 @@
 # Gersinia - testing network protocols and generating packets
 
+The Gersinia tool takes advantage of known weaknesses in several network protocols.It helps with trying to abuse the weaknesses to ensure that network protections are implemented where possible.
+
 ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/Gersinia) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
