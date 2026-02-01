@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We prioritize the security of our users by providing regular patches and updates. Our support policy is as follows: 
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,6 +10,15 @@ currently being supported with security updates.
 | 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
+
+## How to Stay Protected
+
+**1.Upgrade Promptly:** We strongly recommend running the latest version (v3.x) to ensure you have the newest features and security protections.
+**2.Monitor Advisories:** Subscribe to our security mailing list or check our GitHub security advisories page.
+**3.Check Version:** Use command --version to verify your current version. 
+If you are running a version listed as End of Life, you should upgrade immediately to avoid security risks. 
+
+*For more information on how we handle security vulnerabilities, please refer to our Security Policy.*
 
 ## Reporting a Vulnerability
 
